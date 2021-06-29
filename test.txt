@@ -1,3 +1,5 @@
 Updated git text
 Master is here
 
+Editing for fast forward merge
+
